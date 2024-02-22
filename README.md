@@ -41,9 +41,10 @@ then we get:
 
 </div> 
 
-![](fig/ResNet50.jpg)
 
 <div align="center">   
+
+ ![](fig/ResNet50.jpg)
  
 #### Embryo images from ResNet50
 
@@ -51,23 +52,28 @@ then we get:
 
 ### 2.1. Visualize EfficientNetB0
 Running on:
-```
-Advancing_Embryo_Selection(2_Model_VGG_and_ResNet50).ipynb
-```
+
+[embryo-classification-efficientnetb0.ipynb](embryo-classification-efficientnetb0.ipynb)
+
 then we get:
+
+<div align="center">  
+ 
 ![](fig/EfficientNetB0.jpg)
-<div align="center">   
+  
 ### Embryo images from EfficientNetB0
 </div> 
 
 ### 2.1. Visualize MobileNet
 Running on:
-```
-Advancing_Embryo_Selection(2_Model_VGG_and_ResNet50).ipynb
-```
+
+[embryo-mobilenetv2.ipynb](embryo-mobilenetv2.ipynb)
+
 then we get:
+
+<div align="center"> 
 ![](fig/MobileNet.jpg)
-<div align="center">   
+  
 ### Embryo images from MobileNet
 </div> 
 
