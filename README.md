@@ -7,7 +7,7 @@ by Duc Tran *, Phat Pham *, Anh Nguyen *, Hieu Vu *, and Lam Pham.
 \* equal contribution.
 </div> 
 
-**Official Implementation** for the paper "Advancing Embryo Selection: A Comparative Study of State-of-the-Art Deep Learning Models for IVF Embryo Quality Assessment" (2022).
+_**Official Implementation** for the paper "Advancing Embryo Selection: A Comparative Study of State-of-the-Art Deep Learning Models for IVF Embryo Quality Assessment" (2022).
 In this project, we implemented 4 models ResNet50, VGG19, EfficientNetB0 and MobileNet in classifying embryos based on their Inner cell mass (ICM) and trophectoderm (TE) cell characteristics from microscopic images.
 
 ## 1. Requirements
