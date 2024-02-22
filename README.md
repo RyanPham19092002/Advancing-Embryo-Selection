@@ -33,9 +33,9 @@ Running on:
 
 then we get:
 
-![](fig/VGG-19.jpg)
-
 <div align="center">  
+
+![](fig/VGG-19.jpg)
  
 #### Embryo images from VGG-19
 
