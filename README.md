@@ -1,7 +1,5 @@
-# Advancing-Embryo-Selection
-
 <p align="center">
-// Advancing-Embryo-Selection
+# Advancing-Embryo-Selection
 </p>
 
 This is the source code for the paper "Advancing Embryo Selection: A Comparative Study of State-of-the-Art Deep Learning Models for IVF Embryo Quality Assessment".
