@@ -1,6 +1,6 @@
-<p align="center">
-# Advancing-Embryo-Selection
-</p>
+<div align="center">    
+ 
+# Advancing Embryo Selection: A Comparative Study of State-of-the-Art Deep Learning Models for IVF Embryo Quality Assessment
 
 This is the source code for the paper "Advancing Embryo Selection: A Comparative Study of State-of-the-Art Deep Learning Models for IVF Embryo Quality Assessment".
 In this project, we implemented 4 models ResNet50, VGG19, EfficientNetB0 and MobileNet on the Embryo dataset based on microscopic images. 
