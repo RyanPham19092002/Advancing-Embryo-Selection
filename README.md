@@ -28,9 +28,9 @@ pip install matplotlib.pyplot
 
 ### 2.1. Visualize VGG-19 and ResNet50
 Running on:
-```
+
 [Advancing_Embryo_Selection(2_Model_VGG_and_ResNet50).ipynb](Advancing_Embryo_Selection(2_Model_VGG_and_ResNet50).ipynb)
-```
+
 then we get:
 
 ![](fig/VGG-19.jpg)
