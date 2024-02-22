@@ -61,7 +61,7 @@ then we get:
  
 ![](fig/EfficientNetB0.jpg)
   
-### Embryo images from EfficientNetB0
+#### Embryo images from EfficientNetB0
 </div> 
 
 ### 2.1. Visualize MobileNet
@@ -72,9 +72,10 @@ Running on:
 then we get:
 
 <div align="center"> 
+ 
 ![](fig/MobileNet.jpg)
   
-### Embryo images from MobileNet
+#### Embryo images from MobileNet
 </div> 
 
 ## 3. License
